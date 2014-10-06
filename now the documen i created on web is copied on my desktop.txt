@@ -1,0 +1,6 @@
+see when i clicked on create in my desktop 
+then automatically github for windows popped up and 
+it was asking me where to create the repository
+
+
+and after giving the location in github the files are generated 
